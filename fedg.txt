@@ -1,0 +1,6 @@
+#include<stdio.h>
+void main()
+{
+printf("ënter the num");
+scanf("%d",&num);
+}
